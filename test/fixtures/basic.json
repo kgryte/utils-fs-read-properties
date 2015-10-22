@@ -1,0 +1,6 @@
+{
+	"words": "beep,boop,bop",
+	"server.port": 7331,
+	"server.address": "127.0.0.1",
+	"logger.level": "info"
+}
